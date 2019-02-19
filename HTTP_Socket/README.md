@@ -1,4 +1,4 @@
-# This is a test for serving and fetching data using sockets in C
+## Test for serving and fetching data using sockets in C
 
 <br>
 <br>
